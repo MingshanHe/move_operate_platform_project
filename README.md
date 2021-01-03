@@ -3,6 +3,7 @@
 Target recognition and use transformation to obtain the position and posture of the target object through the recognition result
 
 ## Package: darknet_ros
+https://github.com/leggedrobotics/darknet_ros.git
 
 Package for target object recognition and calculation of target position and posture
 
@@ -57,6 +58,7 @@ Control platform movement by keyboard
 Control platform movement by Visual Object Recognition
 
 ## Package: aubo_robot & industrial_core
+https://github.com/lg609/aubo_robot.git
 
  ### moveit_planning_execution.launch
 
